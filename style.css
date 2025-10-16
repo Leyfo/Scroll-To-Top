@@ -30,6 +30,6 @@ body {
 }
 
 .container {
-	display: flex;
+	display: inline;
 	justify-content: center;
 }
